@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/6501075/screenshots/19994346/media/1ac3a7f59b24698b9c32f1025074abd1.gif)](https://rishavchanda.io)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7F7F7&center=true&random=false&width=1000&lines=Hi+👋+%2C+I+am+Thameem+Raz)](https://git.io/typing-svg)
-<h3 align="center">A passionate developer</h3>
+
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaz-009&label=Profile%20views&color=0e75b6&style=flat" alt="raaz-009" /> </p>
