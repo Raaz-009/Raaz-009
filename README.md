@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7F7F7&center=true&random=false&width=1000&lines=Hi+👋+%2C+I+am+Thameem+Raz)](https://git.io/typing-svg)
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<h3 align="center">A passionate developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaz-009&label=Profile%20views&color=0e75b6&style=flat" alt="raaz-009" /> </p>
 
 <p align="left"> <a href="https://twitter.com/codeboyii" target="blank"><img src="https://img.shields.io/twitter/follow/codeboyii?logo=twitter&style=for-the-badge" alt="codeboyii" /></a> </p>
